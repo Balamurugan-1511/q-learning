@@ -24,6 +24,7 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 ### Name: BALA MURUGAN
 ### Register Number:212222230017
 ```
+python
 def q_learning(env, 
                gamma=1.0,
                init_alpha=0.5,
